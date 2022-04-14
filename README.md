@@ -1,4 +1,3 @@
-# README.md
 
 # ABOUT ME 
 **I spend my time writing code and playing game
