@@ -1,5 +1,3 @@
-# README.md
-
 # ABOUT ME 
 I spend my time writing code and playing game
 and mostly i deal with crypter/fud and image logger files and logs on discord
